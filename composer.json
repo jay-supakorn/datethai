@@ -1,7 +1,7 @@
 {
     "name": "kisracorp/support",
     "type": "library",
-    "license": "Kisracorp",
+    "license": "MIT",
     "authors": [
         {
             "name": "Supakorn S.",
